@@ -1,0 +1,13 @@
+<style>
+#frame {
+    height: 80px; /* new height (80 * 0.8) */
+    width: 100%;
+text-align: left;
+
+    transform: scale(0.70); 
+    transform-origin: 0 0;
+}
+</style>
+<div id="frame">
+    <iframe src="https://embed.spotify.com/?uri=spotify:user:125739241:playlist:3bmDNEHoACQTMrDlXBXsif" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+</div>
